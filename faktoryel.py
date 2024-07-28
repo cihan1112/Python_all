@@ -1,0 +1,1 @@
+soru = int(input("faktöryelini bulmamı istediğin "))
